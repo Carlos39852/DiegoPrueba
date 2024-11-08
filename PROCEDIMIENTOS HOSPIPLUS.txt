@@ -1,0 +1,177 @@
+---ALTERANDO INSERTAR MEDICO
+
+ALTER PROCEDURE InsertarMedico
+    @NombreMedico VARCHAR(50),
+    @ApellidoMedico VARCHAR(50),
+    @ApellidoMedicoCasada VARCHAR(60) = NULL,
+    @FechaNacimientoMedico DATE,
+    @TelefonoMedico VARCHAR(15),
+    @DepartamentosID INT,
+    @MunicipioMedico VARCHAR(100),
+    @CorreoMedico VARCHAR(100),
+    @DUIMedico VARCHAR(10),
+    @SexoID INT,
+    @EstadoCivilID INT,
+    @HoraInicio TIME,
+    @HoraFin TIME,
+    @DiasSemanaIDs VARCHAR(50), -- IDs de los días separados por comas
+    @EspecialidadID INT,
+    @EstadoID INT
+AS
+BEGIN
+    DECLARE @HorarioID INT;
+    
+    BEGIN TRANSACTION;
+    BEGIN TRY
+        -- Insertar horario médico
+        INSERT INTO HorarioMedico (HoraInicio, HoraFin)
+        VALUES (@HoraInicio, @HoraFin);
+        SET @HorarioID = SCOPE_IDENTITY();
+
+        -- Insertar los días de la semana en la tabla HorarioDias
+        DECLARE @DiaID INT;
+        DECLARE @Pos INT = 1;
+        DECLARE @NextPos INT;
+
+        WHILE @Pos <= LEN(@DiasSemanaIDs)
+        BEGIN
+            SET @NextPos = CHARINDEX(',', @DiasSemanaIDs, @Pos);
+            IF @NextPos = 0 SET @NextPos = LEN(@DiasSemanaIDs) + 1;
+
+            SET @DiaID = CAST(SUBSTRING(@DiasSemanaIDs, @Pos, @NextPos - @Pos) AS INT);
+            INSERT INTO HorarioDias (HorarioID, DiaID)
+            VALUES (@HorarioID, @DiaID);
+
+            SET @Pos = @NextPos + 1;
+        END;
+
+        -- Insertar el médico
+        INSERT INTO Medicos 
+        (NombreMedico, ApellidoMedico, ApellidoMedicoCasada, FechaNacimientoMedico, TelefonoMedico, DepartamentosID, MunicipioMedico, CorreoMedico, DUIMedico, SexoID, EstadoCivilID, HorarioID, EspecialidadID, EstadoID)
+        VALUES 
+        (@NombreMedico, @ApellidoMedico, @ApellidoMedicoCasada, @FechaNacimientoMedico, @TelefonoMedico, @DepartamentosID, @MunicipioMedico, @CorreoMedico, @DUIMedico, @SexoID, @EstadoCivilID, @HorarioID, @EspecialidadID, @EstadoID);
+
+        COMMIT TRANSACTION;
+        SELECT SCOPE_IDENTITY() AS MedicoID;
+    END TRY
+    BEGIN CATCH
+        ROLLBACK TRANSACTION;
+        PRINT 'Error al insertar el médico: ' + ERROR_MESSAGE();
+    END CATCH;
+END;
+
+---ALTERANDO EDITAR MEDICO
+ALTER PROCEDURE EditarMedico
+    @MedicoID INT,
+    @NombreMedico VARCHAR(50),
+    @ApellidoMedico VARCHAR(50),
+    @ApellidoMedicoCasada VARCHAR(60) = NULL,
+    @FechaNacimientoMedico DATE,
+    @TelefonoMedico VARCHAR(15),
+    @DepartamentosID INT,
+    @MunicipioMedico VARCHAR(100),
+    @CorreoMedico VARCHAR(100),
+    @DUIMedico VARCHAR(10),
+    @SexoID INT,
+    @EstadoCivilID INT,
+    @HoraInicio TIME,
+    @HoraFin TIME,
+    @DiasSemanaIDs VARCHAR(50), -- IDs de los días separados por comas
+    @EspecialidadID INT,
+    @EstadoID INT
+AS
+BEGIN
+    DECLARE @HorarioID INT;
+
+    BEGIN TRANSACTION;
+    BEGIN TRY
+        -- Obtener el ID de Horario actual del médico
+        SELECT @HorarioID = HorarioID FROM Medicos WHERE MedicoID = @MedicoID;
+
+        -- Actualizar horario médico
+        UPDATE HorarioMedico
+        SET HoraInicio = @HoraInicio, HoraFin = @HoraFin
+        WHERE HorarioID = @HorarioID;
+
+        -- Borrar días de la semana existentes en el horario
+        DELETE FROM HorarioDias WHERE HorarioID = @HorarioID;
+
+        -- Insertar los nuevos días de la semana
+        DECLARE @DiaID INT;
+        DECLARE @Pos INT = 1;
+        DECLARE @NextPos INT;
+
+        WHILE @Pos <= LEN(@DiasSemanaIDs)
+        BEGIN
+            SET @NextPos = CHARINDEX(',', @DiasSemanaIDs, @Pos);
+            IF @NextPos = 0 SET @NextPos = LEN(@DiasSemanaIDs) + 1;
+
+            SET @DiaID = CAST(SUBSTRING(@DiasSemanaIDs, @Pos, @NextPos - @Pos) AS INT);
+            INSERT INTO HorarioDias (HorarioID, DiaID)
+            VALUES (@HorarioID, @DiaID);
+
+            SET @Pos = @NextPos + 1;
+        END;
+
+        -- Actualizar el médico
+        UPDATE Medicos 
+        SET 
+            NombreMedico = @NombreMedico, 
+            ApellidoMedico = @ApellidoMedico, 
+            ApellidoMedicoCasada = @ApellidoMedicoCasada, 
+            FechaNacimientoMedico = @FechaNacimientoMedico, 
+            TelefonoMedico = @TelefonoMedico, 
+            DepartamentosID = @DepartamentosID, 
+            MunicipioMedico = @MunicipioMedico, 
+            CorreoMedico = @CorreoMedico, 
+            DUIMedico = @DUIMedico, 
+            SexoID = @SexoID, 
+            EstadoCivilID = @EstadoCivilID, 
+            EspecialidadID = @EspecialidadID, 
+            EstadoID = @EstadoID
+        WHERE MedicoID = @MedicoID;
+
+        COMMIT TRANSACTION;
+        SELECT @MedicoID AS MedicoID;
+    END TRY
+    BEGIN CATCH
+        ROLLBACK TRANSACTION;
+        PRINT 'Error al actualizar el médico: ' + ERROR_MESSAGE();
+    END CATCH;
+END;
+
+---ALTERANDO MOSTRAR MEDICO
+ALTER PROCEDURE MostrarMedicos
+AS
+BEGIN
+    SELECT 
+        M.MedicoID, 
+        M.NombreMedico, 
+        M.ApellidoMedico, 
+        M.ApellidoMedicoCasada, 
+        M.FechaNacimientoMedico, 
+        M.TelefonoMedico, 
+        D.Depar AS Departamento,
+        M.MunicipioMedico, 
+        M.CorreoMedico, 
+        M.DUIMedico, 
+        S.DescripcionSexo AS Sexo,  
+        EC.DescripcionEstadoCivil AS EstadoCivil, 
+        ES.NombreEspecialidad AS Especialidad, 
+        E.Estado AS Estado,
+        HM.HoraInicio, 
+        HM.HoraFin,
+        STUFF((SELECT ', ' + DS.NombreDia 
+               FROM HorarioDias HD
+               JOIN DiasSemana DS ON HD.DiaID = DS.DiaID
+               WHERE HD.HorarioID = M.HorarioID
+               FOR XML PATH(''), TYPE).value('.', 'NVARCHAR(MAX)'), 1, 2, '') AS DiasSemana
+    FROM
+        Medicos M
+        LEFT JOIN Sexos S ON M.SexoID = S.SexoID
+        LEFT JOIN Departamentos D ON M.DepartamentosID = D.DepartamentosID
+        LEFT JOIN EstadosCiviles EC ON M.EstadoCivilID = EC.EstadoCivilID
+        LEFT JOIN HorarioMedico HM ON M.HorarioID = HM.HorarioID
+        LEFT JOIN Estados E ON M.EstadoID = E.EstadoID
+        LEFT JOIN Especialidades ES ON M.EspecialidadID = ES.EspecialidadID;
+END;
