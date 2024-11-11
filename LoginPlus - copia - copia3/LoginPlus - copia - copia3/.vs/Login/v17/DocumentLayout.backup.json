@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\gestionproduc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestionproduc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\gestionproduc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestionproduc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\aggproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\aggproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\aggproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\aggproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\aggproveedor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\aggproveedor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\nuevordnpedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\nuevordnpedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\gestioninventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestioninventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\gestioninventario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestioninventario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\clasesdb\\productoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:clasesdb\\productoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\clasesdb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:clasesdb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\ordenespedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\ordenespedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\clasesdb\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:clasesdb\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\logincliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\logincliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\logincliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\logincliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\erick baudriz\\pictures\\loginplus - copia - copia3\\views\\reportes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\reportes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\palma\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\Context.cs",
+              "RelativeDocumentMoniker": "ClasesDB\\Context.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\Context.cs",
+              "RelativeToolTip": "ClasesDB\\Context.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:40:18.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionInventario.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml",
+              "RelativeDocumentMoniker": "Views\\GestionInventario.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml",
+              "RelativeToolTip": "Views\\GestionInventario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T21:51:10.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionInventario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GestionInventario.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml.cs",
+              "RelativeToolTip": "Views\\GestionInventario.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:30:50.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AggProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml",
+              "RelativeDocumentMoniker": "Views\\AggProducto.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml",
+              "RelativeToolTip": "Views\\AggProducto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T04:09:28.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionProduc.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GestionProduc.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml.cs",
+              "RelativeToolTip": "Views\\GestionProduc.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:34:43.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionProduc.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml",
+              "RelativeDocumentMoniker": "Views\\GestionProduc.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml",
+              "RelativeToolTip": "Views\\GestionProduc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T21:59:23.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AggProducto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AggProducto.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml.cs",
+              "RelativeToolTip": "Views\\AggProducto.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwHEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:21:50.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NuevOrdnPedido.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\NuevOrdnPedido.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\NuevOrdnPedido.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\NuevOrdnPedido.xaml.cs",
+              "RelativeToolTip": "Views\\NuevOrdnPedido.xaml.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAlwLcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:39:03.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AggProveedor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProveedor.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AggProveedor.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\AggProveedor.xaml.cs",
+              "RelativeToolTip": "Views\\AggProveedor.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:28:35.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ClasesDB\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\Proveedor.cs",
+              "RelativeToolTip": "ClasesDB\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:20:33.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\ProductoProveedor.cs",
+              "RelativeDocumentMoniker": "ClasesDB\\ProductoProveedor.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\ClasesDB\\ProductoProveedor.cs",
+              "RelativeToolTip": "ClasesDB\\ProductoProveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:22:34.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:12:13.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginCliente.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml",
+              "RelativeToolTip": "Views\\LoginCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T04:46:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml.cs",
+              "RelativeToolTip": "Views\\LoginCliente.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:08:19.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\palma\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\palma\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\palma\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\palma\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "ViewState": "AQIAAO4BAAAAAAAAAAAowP4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:21:31.785Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reportes.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\Reportes.xaml",
+              "RelativeDocumentMoniker": "Views\\Reportes.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\Reportes.xaml",
+              "RelativeToolTip": "Views\\Reportes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T03:46:01.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdenesPedido.xaml",
+              "DocumentMoniker": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\OrdenesPedido.xaml",
+              "RelativeDocumentMoniker": "Views\\OrdenesPedido.xaml",
+              "ToolTip": "C:\\Users\\Erick Baudriz\\Pictures\\LoginPlus - copia - copia3\\Views\\OrdenesPedido.xaml",
+              "RelativeToolTip": "Views\\OrdenesPedido.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T21:59:30.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

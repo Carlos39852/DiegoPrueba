@@ -1,0 +1,405 @@
+﻿<Page x:Class="Login.Views.GestionInventario"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="700"
+      Title="GestionInventario">
+
+    <Grid Background="#F3F4F6">
+        <TextBlock Text="Gestión de Inventario" FontSize="28" FontWeight="Bold" Foreground="#34495E" HorizontalAlignment="Center" Margin="0,20,0,0"/>
+
+        <!-- Contenedor de las secciones con TabControl -->
+        <TabControl x:Name="TabControlPrincipal" Margin="20,80,20,0" Background="#FFFFFF" Foreground="#2C3E50" 
+                    BorderBrush="#D1D5DB" TabStripPlacement="Top" Height="443" VerticalAlignment="Top">
+
+            <!-- Productos -->
+            <TabItem Header="Productos" Width="10" Margin="-60,0,0,0">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,0,0,10">
+                        <materialDesign:PackIcon Kind="Box" Width="30" Height="30" Foreground="#34495E"/>
+                        <TextBlock Text="Listado de Productos" FontSize="20" Margin="10,0,0,0" VerticalAlignment="Center" Foreground="#34495E"/>
+                    </StackPanel>
+                    <DataGrid x:Name="DataGridProductos" AutoGenerateColumns="False" Background="White" Foreground="#2C3E50" 
+           BorderBrush="#E5E7EB" RowBackground="#FAFAFA" AlternatingRowBackground="#F1F1F1" Height="334">
+                        <DataGrid.Columns>
+                            <!-- Columna para el Nombre -->
+                            <DataGridTemplateColumn Header="Nombre_Producto">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Account" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Nombre" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Nombre_Producto}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para la Categoría -->
+                            <DataGridTemplateColumn Header="Categoría">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Tag" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Categoría" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Categoria}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para el Precio -->
+                            <DataGridTemplateColumn Header="Precio">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="CurrencyUsd" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Precio" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding PrecioUnitario}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para el Stock -->
+                            <DataGridTemplateColumn Header="Stock_actual">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Warehouse" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Stock" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding stock_actual}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <!-- Botones de acciones -->
+
+
+                </StackPanel>
+            </TabItem>
+
+            <!-- Stock Mínimo -->
+            <TabItem  x:Name="TabItemStockMinimo" Header="Stock Mínimo" Width="125" Margin="-90,0,0,0" >
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,0,0,10">
+                        <materialDesign:PackIcon Kind="ClipboardList" Width="30" Height="30" Foreground="#34495E"/>
+                        <TextBlock Text="Control de Stock Mínimo" FontSize="20" Margin="10,0,0,0" VerticalAlignment="Center" Foreground="#34495E"/>
+                    </StackPanel>
+                    <DataGrid x:Name="DataGridStockMinimo" AutoGenerateColumns="False" Background="White" Foreground="#2C3E50" 
+                              BorderBrush="#E5E7EB" RowBackground="#FAFAFA" AlternatingRowBackground="#F1F1F1" Height="335">
+                        <DataGrid.Columns>
+                            <!-- Columna para el Producto -->
+                            <DataGridTemplateColumn Header="Producto">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Box" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Producto" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Nombre_Producto}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para el Stock Mínimo -->
+                            <DataGridTemplateColumn Header="Stock Mínimo">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="ArrowDown" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Stock Mínimo" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding stock_minimo}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+
+            <!-- Compras -->
+
+            <!-- Proveedores -->
+            <TabItem Header="Proveedores" Width="125" Margin="-100,0,0,0">
+
+                <StackPanel Margin="0,0,0,10" Height="292" VerticalAlignment="Bottom">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,40,0,0" Height="33" Width="350">
+                        <!-- Botón Agregar -->
+                        <Button Click="AggProveedor" Background="LightBlue" Foreground="Black" Margin="10,0,10,0">
+                            <Button.Style>
+                                <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                    <Setter Property="Background" Value="LightBlue"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="Black"/>
+                                            <Setter Property="Foreground" Value="White"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <!-- StackPanel con icono y texto -->
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="PlusCircle" Width="20" Height="20" Foreground="Black" />
+                                <TextBlock Text="Agregar" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+
+                        <!-- Botón Editar -->
+                        <Button Click="EditarProveedorClick" Background="LightSkyBlue" Foreground="Black" Margin="0,0,10,0">
+                            <Button.Style>
+                                <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                    <Setter Property="Background" Value="LightBlue"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="LightGreen"/>
+                                            <Setter Property="Foreground" Value="White"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <!-- StackPanel con icono y texto -->
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="Pencil" Width="20" Height="20" Foreground="Black" />
+                                <TextBlock Text="Editar" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+
+                        <!-- Botón Eliminar -->
+                        <Button Name="BtnEliminar" IsEnabled="True" Click="EliminarProveedor_Click" Background="LightBlue" Foreground="Black" Margin="0,0,10,0">
+                            <Button.Style>
+                                <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                    <Setter Property="Background" Value="LightBlue"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="Red"/>
+                                            <Setter Property="Foreground" Value="White"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <!-- StackPanel con icono y texto -->
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="Delete" Width="20" Height="20" Foreground="Black" />
+                                <TextBlock Text="Eliminar" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+
+                    </StackPanel>
+
+
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,-30,0,10">
+                        <materialDesign:PackIcon Kind="Account" Width="30" Height="30" Foreground="#34495E"/>
+                        <TextBlock Text="Proveedores" FontSize="20" Margin="10,0,0,0" VerticalAlignment="Center" Foreground="#34495E"/>
+                    </StackPanel>
+
+                    <DataGrid x:Name="DataGridProveedores" AutoGenerateColumns="False" Background="White" Foreground="#2C3E50" 
+                              BorderBrush="#E5E7EB" RowBackground="#FAFAFA" AlternatingRowBackground="#F1F1F1" SelectionChanged="DataGridProveedores_SelectionChanged" Height="209">
+                        <DataGrid.Columns>
+                            <!-- Columna para el Nombre -->
+
+
+                            <!-- Columna para el Nombre -->
+                            <DataGridTemplateColumn Header="Nombre">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="AccountCircle" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Nombre" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Nombre_proveedor}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para el Teléfono -->
+                            <DataGridTemplateColumn Header="Teléfono">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Phone" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Teléfono" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Telefono}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Columna para el Contacto -->
+                            <DataGridTemplateColumn Header="Correo">
+                                <DataGridTemplateColumn.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Email" Width="20" Height="20" Margin="5" Foreground="#2C3E50"/>
+                                            <TextBlock Text="Correo" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.HeaderTemplate>
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding email}" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+
+                            <!-- Columna para el Direccion-->
+
+
+
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+                    <!-- Botones de acciones para Productos -->
+
+
+                </StackPanel>
+
+            </TabItem>
+
+            <!-- Órdenes de Pedido -->
+
+            <!-- Solicitud de Medicamentos -->
+            <TabItem Header="Solicitud de Medicamentos" Width="210" Margin="-60,0,0,0" >
+                <StackPanel Margin="0,10,0,18">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,40,0,0" Height="33" Width="151">
+                        <!-- Botón Agregar -->
+                        <Button x:Name="btnRecibido" Click="btnMarcarRecibido_Click" Background="LightBlue" Foreground="Black" Margin="10,0,10,0">
+                            <Button.Style>
+                                <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                    <Setter Property="Background" Value="LightBlue"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="Black"/>
+                                            <Setter Property="Foreground" Value="White"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <!-- StackPanel con icono y texto -->
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="Check" Width="20" Height="20" Foreground="Black" />
+                                <TextBlock Text="Recibido" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+                        
+                    </StackPanel>
+
+                    <!-- Tabla para mostrar los productos añadidos a la orden -->
+                    <DataGrid x:Name="DataGridMedicamentos" AutoGenerateColumns="False" Margin="10,10,10,10" Height="364"  SelectionMode="Single" RowEditEnding="DataGridMedicamentos_RowEditEnding">
+                        <DataGrid.Columns>
+                            <!-- Columna Producto -->
+                            <DataGridTextColumn Width="*" Binding="{Binding ProductoNombre}" IsReadOnly="True">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="Syringe" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Producto" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+
+                            <!-- Columna Proveedor -->
+                            <DataGridTextColumn Width="*" Binding="{Binding  ProveedorNombre}" IsReadOnly="True">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="Person" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Proveedor" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+
+                            <!-- Columna Cantidad -->
+                            <DataGridTextColumn Width="*" Binding="{Binding cantidad }" IsReadOnly="True">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="Numeric" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Cantidad" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+
+                            <!-- Columna Precio Unitario -->
+                            <DataGridTextColumn Width="*" Binding="{Binding precio_unitario}" IsReadOnly="True">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="Dollar" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Precio Unitario" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+
+                            <!-- Columna Total -->
+                            <DataGridTextColumn Width="*" Binding="{Binding monto_total}" IsReadOnly="True">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="Finance" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Total" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+
+                            <!-- Columna Activo -->
+                            <DataGridTextColumn Width="*" Binding="{Binding Activo, Mode=OneWay}" IsReadOnly="False">
+                                <DataGridTextColumn.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="CheckCircle" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                        <TextBlock Text="Activo" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataGridTextColumn.Header>
+                            </DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    
+
+                    <!-- Botón para marcar como recibido -->
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Page>

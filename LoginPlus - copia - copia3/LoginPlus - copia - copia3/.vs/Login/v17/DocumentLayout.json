@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\gestionproduc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestionproduc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\gestionproduc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestionproduc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\windowsistema.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\windowsistema.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\reportes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\reportes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\reportes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\reportes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\logincliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\logincliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\aggproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\aggproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\gestioninventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\gestioninventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\clasesdb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:clasesdb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|c:\\users\\carlo\\desktop\\loginplus - copia - copia3\\loginplus - copia - copia3\\views\\ordenespedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{802B5FB1-35F7-4628-BDE9-7F2F0E741CA4}|Login.csproj|solutionrelative:views\\ordenespedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\ClasesDB\\Context.cs",
+              "RelativeDocumentMoniker": "ClasesDB\\Context.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\ClasesDB\\Context.cs",
+              "RelativeToolTip": "ClasesDB\\Context.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwCgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:40:18.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionInventario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GestionInventario.xaml.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionInventario.xaml.cs",
+              "RelativeToolTip": "Views\\GestionInventario.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:30:50.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AggProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml",
+              "RelativeDocumentMoniker": "Views\\AggProducto.xaml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\AggProducto.xaml",
+              "RelativeToolTip": "Views\\AggProducto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T04:09:28.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionProduc.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GestionProduc.xaml.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml.cs",
+              "RelativeToolTip": "Views\\GestionProduc.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:34:43.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionProduc.xaml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml",
+              "RelativeDocumentMoniker": "Views\\GestionProduc.xaml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\GestionProduc.xaml",
+              "RelativeToolTip": "Views\\GestionProduc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T21:59:23.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowSistema.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\WindowSistema.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\WindowSistema.xaml.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\WindowSistema.xaml.cs",
+              "RelativeToolTip": "Views\\WindowSistema.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:51:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reportes.xaml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\Reportes.xaml",
+              "RelativeDocumentMoniker": "Views\\Reportes.xaml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\Reportes.xaml",
+              "RelativeToolTip": "Views\\Reportes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T05:51:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reportes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\Reportes.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Reportes.xaml.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\Reportes.xaml.cs",
+              "RelativeToolTip": "Views\\Reportes.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:50:43.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\LoginCliente.xaml.cs",
+              "RelativeToolTip": "Views\\LoginCliente.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:08:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdenesPedido.xaml",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\OrdenesPedido.xaml",
+              "RelativeDocumentMoniker": "Views\\OrdenesPedido.xaml",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\LoginPlus - copia - copia3\\LoginPlus - copia - copia3\\Views\\OrdenesPedido.xaml",
+              "RelativeToolTip": "Views\\OrdenesPedido.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T21:59:30.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

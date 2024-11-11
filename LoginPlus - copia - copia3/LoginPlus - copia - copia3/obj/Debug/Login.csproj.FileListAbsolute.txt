@@ -1,0 +1,152 @@
+C:\Users\palma\source\repos\Login\bin\Debug\Login.exe.config
+C:\Users\palma\source\repos\Login\bin\Debug\Login.exe
+C:\Users\palma\source\repos\Login\bin\Debug\Login.pdb
+C:\Users\palma\source\repos\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\palma\source\repos\Login\obj\Debug\MainWindow.g.cs
+C:\Users\palma\source\repos\Login\obj\Debug\App.g.cs
+C:\Users\palma\source\repos\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\palma\source\repos\Login\obj\Debug\Login_MarkupCompile.lref
+C:\Users\palma\source\repos\Login\obj\Debug\MainWindow.baml
+C:\Users\palma\source\repos\Login\obj\Debug\Login.g.resources
+C:\Users\palma\source\repos\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\palma\source\repos\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\palma\source\repos\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\palma\source\repos\Login\obj\Debug\Login.exe
+C:\Users\palma\source\repos\Login\obj\Debug\Login.pdb
+C:\Users\palma\source\repos\Login\bin\Debug\MaterialDesignColors.dll
+C:\Users\palma\source\repos\Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\palma\source\repos\Login\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\palma\source\repos\Login\bin\Debug\MaterialDesignColors.pdb
+C:\Users\palma\source\repos\Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\palma\source\repos\Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\palma\source\repos\Login\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\palma\source\repos\Login\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\palma\source\repos\Login\obj\Debug\Login.csproj.Up2Date
+C:\Users\palma\source\repos\Login\obj\Debug\App.baml
+C:\Users\palma\source\repos\Login\obj\Debug\fmrUsuarios.g.cs
+C:\Users\palma\source\repos\Login\obj\Debug\fmrUsuarios.baml
+C:\Users\palma\source\repos\Login\bin\Debug\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\Login\bin\Debug\System.Data.SqlClient.xml
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Login.exe.config
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Login.exe
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Login.pdb
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\MaterialDesignColors.dll
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\MaterialDesignColors.pdb
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\palma\source\repos\LoginPlus\bin\Debug\System.Data.SqlClient.xml
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\MainWindow.g.cs
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\App.g.cs
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login_MarkupCompile.cache
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login_MarkupCompile.lref
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\App.baml
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\MainWindow.baml
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.g.resources
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.Properties.Resources.resources
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.csproj.Up2Date
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.exe
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\Login.pdb
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\WindowSistema.g.cs
+C:\Users\palma\source\repos\LoginPlus\obj\Debug\WindowSistema.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionInventario.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionProduc.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionVentas.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Poup.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Reportes.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\SeguridadVntana.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\WindowSistema.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\App.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login_MarkupCompile.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login_MarkupCompile.lref
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.exe
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Login.exe.config
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Login.exe
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Login.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\MaterialDesignColors.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\MaterialDesignColors.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\App.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionInventario.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionProduc.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\GestionVentas.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Poup.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Reportes.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\SeguridadVntana.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\WindowSistema.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.g.resources
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.Properties.Resources.resources
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Login.csproj.Up2Date
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\MainWindow.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\MainWindow.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\NuevOrdnPedido.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\OrdenesPedido.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\NuevOrdnPedido.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\OrdenesPedido.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Usuarios.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia\obj\Debug\Views\Usuarios.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Login.exe.config
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Login.exe
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Login.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\MaterialDesignColors.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Usuarios.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\MainWindow.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionInventario.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionProduc.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionVentas.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\NuevOrdnPedido.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\OrdenesPedido.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Poup.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Reportes.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\SeguridadVntana.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Usuarios.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\WindowSistema.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\App.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login_MarkupCompile.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login_MarkupCompile.lref
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\App.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\MainWindow.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionInventario.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionProduc.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\GestionVentas.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\NuevOrdnPedido.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\OrdenesPedido.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Poup.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\Reportes.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\SeguridadVntana.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Views\WindowSistema.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.g.resources
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.csproj.Up2Date
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.exe
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\Login.pdb

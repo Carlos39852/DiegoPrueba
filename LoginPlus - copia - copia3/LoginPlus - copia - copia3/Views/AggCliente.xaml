@@ -1,0 +1,196 @@
+﻿<Window x:Class="Login.Views.AggCliente"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login.Views"
+        mc:Ignorable="d"
+         Title="Registro Cliente" Height="580" Width="800"
+   ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+
+    <Grid Background="White" Margin="0,0,0,-171">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="556*"/>
+        </Grid.RowDefinitions>
+
+        <!-- ToolBar -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,0" Height="80" VerticalAlignment="Top" Grid.RowSpan="2" Width="400">
+            <ToolBarTray>
+                <ToolBar Margin="0" Width="400" Height="80">
+                    <!-- Botón Editar -->
+                    <Button x:Name="BtnRegistar" Width="160" Height="35"  Background="LightSkyBlue" Foreground="Black" Margin="0,0,10,0" FontSize="15" Click="BtnRegistrar_Click" IsEnabled="False">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                <Setter Property="Background" Value="LightBlue"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="LightGreen"/>
+                                        <Setter Property="Foreground" Value="White"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <!-- StackPanel con icono y texto -->
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Register" Width="35" Height="35" Foreground="Black" />
+                            <TextBlock Text="Registrarme" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+
+                    <!-- Botón Editar -->
+                    <Button Width="155" Height="40"  Background="Red" Foreground="Black" Margin="0,0,10,0" FontSize="15" Click="Button_Click">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFlatButton}">
+                                <Setter Property="Background" Value="DarkRed"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="LightGreen"/>
+                                        <Setter Property="Foreground" Value="White"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <!-- StackPanel con icono y texto -->
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Cancel" Width="35" Height="35" Foreground="Black" />
+                            <TextBlock Text="Cancelar" Foreground="Black" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Button>
+
+                </ToolBar>
+            </ToolBarTray>
+        </StackPanel>
+
+        <!-- GroupBox for User Data -->
+        <GroupBox x:Name="grupoTxtCmb" Header="Datos Generales Cliente" FontSize="13" FontFamily="Arial" FontStyle="Italic" FontWeight="ExtraLight" Margin="10,25,10,10" Padding="20" Grid.Row="1">
+            <StackPanel>
+                <StackPanel Margin="0,0,0,0">
+                    <!--txt para NOMBRE -->
+                    <TextBox Width="250" x:Name="txtNombre"     
+              Margin="-300,0,0,5"
+              materialDesign:HintAssist.Hint="Nombre Completo" 
+              Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+
+                    <!--txt para EMAIL -->
+                    <TextBox Width="250" x:Name="txtEmail"
+                     Margin="300,-50,0,10"
+                     materialDesign:HintAssist.Hint="Email" 
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                </StackPanel>
+
+
+
+                <StackPanel Margin="0,20,0,0">
+                    <PasswordBox Width="250" x:Name="txtClave"
+               Margin="-300,10,0,5"
+               materialDesign:HintAssist.Hint="Contraseña" 
+               Style="{StaticResource MaterialDesignFilledPasswordBox}"></PasswordBox>
+
+                    <PasswordBox Width="250" x:Name="txtConfirmacion"
+               Margin="300,-50,0,10"
+               materialDesign:HintAssist.Hint="Confirmar Contraseña" 
+               Style="{StaticResource MaterialDesignFilledPasswordBox}"></PasswordBox>
+                </StackPanel>
+                <StackPanel Height="461" Width="746">
+
+                    <!-- COMBOBOX PARA DEPARTAMENTO -->
+                    <ComboBox 
+                     x:Name="comboDepartamento"
+                      Width="250" 
+                     Margin="-300,20,0,5" 
+                      VerticalAlignment="Center" 
+                      materialDesign:HintAssist.Hint="Departamento" 
+                        DisplayMemberPath="Depar"  
+            SelectedValuePath="DepartamentosID"
+                        
+                        SelectionChanged="comboDepartamentoEvent" 
+                       
+                       />
+                    <TextBox Width="250" x:Name="txtCalle"
+                        materialDesign:HintAssist.Hint="Calle" Margin="0,20,300,10"
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+
+                    <!-- COMBOBOX PARA MUNICIPIO -->
+                    <ComboBox 
+                      x:Name="comboMunicipio"
+                      Width="250" 
+                     Margin="300,-156,0,5" 
+                      VerticalAlignment="Center" 
+                      materialDesign:HintAssist.Hint="Municipio"/>
+
+                    <!-- TXT para Tarjeta de Crédito -->
+                    <TextBox 
+    Width="250" 
+    x:Name="txtTarjeta"
+    Margin="300,-50,0,10"
+    materialDesign:HintAssist.Hint="Tarjeta de crédito" 
+    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+    PreviewTextInput="txtTarjeta_PreviewTextInput"
+    TextChanged="txtTarjeta_TextChanged"
+    MaxLength="19"/>
+
+                    <!-- TXT para CVV (Código de seguridad) -->
+                    <TextBox 
+        Width="250" Height="40" 
+        x:Name="txtCVV"
+        Margin="-0,90,-00,10"
+        materialDesign:HintAssist.Hint="CVV"
+        Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+        PreviewTextInput="txtCVV_PreviewTextInput"
+        MaxLength="3"  />
+
+
+                    <!-- TXT para Año de Vencimiento -->
+                    <StackPanel
+
+
+                Width="276" Orientation="Horizontal" Margin="300,-190,-30,10" Height="54">
+
+
+                        <TextBox 
+            Width="120" 
+            x:Name="txtYear"
+            Margin="0,10,10,10"
+            materialDesign:HintAssist.Hint="Año"
+            Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+            MaxLength="4"
+            PreviewTextInput="txtYear_PreviewTextInput" />
+
+                        <TextBlock VerticalAlignment="Center" Margin="0,10,10,10" FontSize="20"><Run Text="/"/></TextBlock>
+
+                        <TextBox 
+            Width="120" 
+            x:Name="txtMonth"
+            Margin="0,10,0,10"
+            materialDesign:HintAssist.Hint="Mes"
+            Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+            MaxLength="2"
+            PreviewTextInput="txtMonth_PreviewTextInput"  />
+                    </StackPanel>
+                    <TextBox 
+                        Width="250" 
+                        Margin="-300,-190,0,10"
+                        x:Name="txtTelefono"
+                        materialDesign:HintAssist.Hint="Numero de telefono" 
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                        PreviewTextInput="txtTarjeta_PreviewTextInput"
+                        TextChanged="txtTarjeta_TextChanged"
+                         Height="40"/>
+
+
+                </StackPanel>
+
+
+
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+
+
+</Window>

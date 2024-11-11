@@ -1,0 +1,707 @@
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.exe
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.dll.config
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\ConfirmationDialog.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionInventario.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionProduc.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionVentas.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\OrdenesPedido.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Poup.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Reportes.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\SeguridadVntana.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Usuarios.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\WindowSistema.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login_MarkupCompile.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login_MarkupCompile.lref
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\App.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\ConfirmationDialog.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionInventario.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionProduc.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\GestionVentas.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\OrdenesPedido.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Poup.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Reportes.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\SeguridadVntana.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\Usuarios.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Views\WindowSistema.baml
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.g.resources
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\Erick Baudriz\Documents\LoginPlus - copia - copia\obj\Debug\net8.0-windows\ref\Login.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.exe
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll.config
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.lref
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.g.resources
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\ref\Login.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.g.cs
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.baml
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\palma\source\repos\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.exe
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll.config
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.cache
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.lref
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.baml
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.g.resources
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\ref\Login.dll
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProducto.g.cs
+C:\Users\Erick Baudriz\Pictures\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProducto.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.exe
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll.config
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProducto.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProveedor.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\WindowSistema.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.cache
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login_MarkupCompile.lref
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggCliente.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\AggProducto.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\ConfirmationDialog.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionInventario.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionProduc.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\GestionVentas.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\LoginCliente.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\NuevOrdnPedido.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\OrdenesPedido.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Poup.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Reportes.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\SeguridadVntana.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Views\Usuarios.baml
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.g.resources
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\carlo\Desktop\LoginPlus - copia - copia3\LoginPlus - copia - copia3\obj\Debug\net8.0-windows\ref\Login.dll

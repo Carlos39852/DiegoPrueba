@@ -1,0 +1,71 @@
+﻿<Window x:Class="Login.Views.AggProveedor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Title="Agregar Proveedor" Height="668" Width="940">
+    <Grid Margin="10">
+        <StackPanel>
+            <!-- Sección de datos básicos del proveedor -->
+            <StackPanel>
+                <!-- Nombre -->
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <materialDesign:PackIcon Kind="Account" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                    <TextBlock Text="Nombre" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                </StackPanel>
+                <TextBox x:Name="txtNombre" Style="{StaticResource MaterialDesignOutlinedTextBox}" Margin="0,0,0,10" Width="400"/>
+
+                <!-- Teléfono -->
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <materialDesign:PackIcon Kind="Phone" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                    <TextBlock Text="Teléfono" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                </StackPanel>
+                <TextBox x:Name="txtTelefono" Style="{StaticResource MaterialDesignOutlinedTextBox}" Margin="0,0,0,10" Width="400"/>
+
+                <!-- Correo -->
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <materialDesign:PackIcon Kind="Email" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                    <TextBlock Text="Correo" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                </StackPanel>
+                <TextBox x:Name="txtCorreo" Style="{StaticResource MaterialDesignOutlinedTextBox}" Margin="0,0,0,10" Width="400"/>
+            </StackPanel>
+
+            <!-- Sección para agregar productos y precios -->
+            <TextBlock Text="Productos y Precios" FontWeight="Bold" Margin="0,20,0,10"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Campo para el nombre del producto -->
+                <TextBox x:Name="txtNombreProducto" Style="{StaticResource MaterialDesignOutlinedTextBox}" Margin="0,0,10,10" Width="250" materialDesign:HintAssist.Hint="Producto"/>
+
+                <!-- Campo para el precio del producto -->
+                <TextBox x:Name="txtPrecioProducto" Grid.Column="1" Style="{StaticResource MaterialDesignOutlinedTextBox}" Margin="0,0,10,10" Width="150" materialDesign:HintAssist.Hint="Precio Unitario"/>
+
+                <!-- Botón para agregar producto a la lista -->
+                <Button Grid.Column="2" Content="Agregar" Style="{StaticResource MaterialDesignRaisedButton}" Click="AgregarProducto_Click"/>
+            </Grid>
+
+            <!-- DataGrid para mostrar los productos añadidos -->
+            <DataGrid x:Name="DataGridProductos" AutoGenerateColumns="False" Margin="0,10,0,10" Height="150">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Producto" Binding="{Binding NombreProducto}" Width="*" />
+                    <DataGridTextColumn Header="Precio Unitario" Binding="{Binding PrecioUnitario}" Width="*" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Botones de acción -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button Content="Guardar" Style="{StaticResource MaterialDesignRaisedButton}" Width="100" Margin="5" Click="GuardarProveedor"/>
+                <Button Content="Cancelar" Style="{StaticResource MaterialDesignRaisedButton}" Width="100" Margin="5" Click="Cancelar"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
+

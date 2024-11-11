@@ -1,0 +1,100 @@
+﻿<Page x:Class="Login.Views.OrdenesPedido" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Órdenes de Pedido">
+
+    <Grid Background="White">
+        <TextBlock Text="Gestión de Órdenes de Pedido" FontSize="24" Margin="10" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+
+        <!-- Crear y gestionar órdenes -->
+        <StackPanel Margin="10, 60, 10, 10">
+            <!-- Botón Nueva Orden con ícono -->
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Width="150" Height="40" Margin="5" Click="BtnNuevaOrden_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Kind="Plus" Width="20" Height="20" Margin="5" Foreground="Black"/>
+                    <TextBlock Text="Nueva Orden" VerticalAlignment="Center" Foreground="Black"/>
+                </StackPanel>
+            </Button>
+
+            <!-- Tabla para mostrar órdenes con iconos en los encabezados -->
+            <DataGrid x:Name="DataGridOrdenes" AutoGenerateColumns="False" Margin="0,10,0,0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="*" Binding="{Binding OrdenId}">
+                        <DataGridTextColumn.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="File" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                <TextBlock Text="ID Orden" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </DataGridTextColumn.Header>
+                    </DataGridTextColumn>
+
+                    <DataGridTextColumn Width="*" Binding="{Binding Proveedor}">
+                        <DataGridTextColumn.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="Store" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                <TextBlock Text="Proveedor" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </DataGridTextColumn.Header>
+                    </DataGridTextColumn>
+
+                    <DataGridTextColumn Width="*" Binding="{Binding Fecha}">
+                        <DataGridTextColumn.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="Calendar" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                <TextBlock Text="Fecha" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </DataGridTextColumn.Header>
+                    </DataGridTextColumn>
+
+                    <DataGridTextColumn Width="*" Binding="{Binding Estado}">
+                        <DataGridTextColumn.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="CheckCircle" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                <TextBlock Text="Estado" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </DataGridTextColumn.Header>
+                    </DataGridTextColumn>
+
+                    <DataGridTextColumn Width="*" Binding="{Binding Total}">
+                        <DataGridTextColumn.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Kind="CurrencyUsd" Width="20" Height="20" VerticalAlignment="Center" Foreground="#2C3E50"/>
+                                <TextBlock Text="Total" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </DataGridTextColumn.Header>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Botones de acción con íconos -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,215,0,0">
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Width="150" Height="40" Margin="10" Click="BtnEditarOrden_Click">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Pencil" Width="20" Height="20" Margin="5" Foreground="Black"/>
+                        <TextBlock Text="Editar Orden" VerticalAlignment="Center" Foreground="Black"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Width="150" Height="40" Margin="10" Click="BtnEliminarOrden_Click">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Delete" Width="20" Height="20" Margin="5" Foreground="Black"/>
+                        <TextBlock Text="Eliminar Orden" VerticalAlignment="Center" Foreground="Black"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Width="150" Height="40" Margin="10" Click="BtnVerDetalles_Click">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Eye" Width="20" Height="20" Margin="5" Foreground="Black"/>
+                        <TextBlock Text="Ver Detalles" VerticalAlignment="Center" Foreground="Black"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

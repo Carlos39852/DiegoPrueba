@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\AggCliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AggProducto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AggProveedor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ConfirmationDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginCliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AggCliente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AggProducto.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AggProveedor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ConfirmationDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginCliente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
